@@ -1,4 +1,4 @@
-VapourSynth image segmentation with [OpenCV Hierarchical Feature Selection module](https://github.com/opencv/opencv_contrib/tree/4.x/modules/hfs).
+VapourSynth image segmentation with [OpenCV Hierarchical Feature Selection module](https://github.com/opencv/opencv_contrib/tree/4.x/modules/hfs).\
 PS: CUDA GPU is a requirement.
 
 ### Usage
